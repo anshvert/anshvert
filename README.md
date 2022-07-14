@@ -1,5 +1,5 @@
 # <h1 align='center'> Hi there [<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">](https://github.com/bhavyatyagi), I'm Ansh Tyagi </h1>
-<h3  align='center'> pursuing CSE from <a href="https://thapar.edu"> Thapar Institute of Engineering & Technology, Patiala </a> </h3>
+<h3  align='center'> pursuing COE from <a href="https://thapar.edu"> Thapar Institute of Engineering & Technology, Patiala </a> </h3>
 
 <br>
 
@@ -23,7 +23,7 @@
  
 <br>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ANSHtyagi001"></p>
-<!--
+
 **ANSHtyagi001/ansh_** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
--->
+
