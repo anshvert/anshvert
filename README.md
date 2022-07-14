@@ -16,9 +16,7 @@
 </div>
 
 <div align="center">
- <h3> 💬 Misc: </h3>
  <li> Don't Try : Charles Bukowski
- 
 </div>
  
 <br>
