@@ -17,8 +17,8 @@
 
 <div align="center">
  <h3> 💬 Misc: </h3>
- <li> 😄 Pronouns: He/Him </li>
- <li> ⚡ Fun fact: You'll die and then it won't matter. </li>
+ <li> Don't Try : Charles Bukowski
+ 
 </div>
  
 <br>
