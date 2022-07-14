@@ -4,7 +4,7 @@
 <br>
 
 
- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ANSHtyagi001&show_icons=true&count_private=true&include_all_commits=true&theme=github_light"></p>
+ <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ANSHtyagi001&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark"></p>
 
 <div align="center">
 <h3> 📫 How to reach me:</h3>
@@ -24,7 +24,7 @@
 <br>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ANSHtyagi001"></p>
 
-**ANSHtyagi001/ansh_** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **ANSHtyagi001/ansh_** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 
