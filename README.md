@@ -4,7 +4,7 @@
 <br>
 
 
- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ANSHtyagi001&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark"></p>
+ <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=anshvert&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark"></p>
 
 <div align="center">
 <h3> 📫 How to reach me:</h3>
