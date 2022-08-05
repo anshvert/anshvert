@@ -9,10 +9,10 @@
 <div align="center">
 <h3> 📫 How to reach me:</h3>
 <a href="https://www.linkedin.com/in/ansh00000000/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="50"></a>
-<!-- <a href="https://medium.com/@bhavyatyagi16/"><img src="https://github.com/aritraroy/social-icons/blob/master/medium-icon.png" width="50"></a> -->
-<!-- <a href="https://www.instagram.com/bhavyatyagi16/"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="50"></a> -->
-<!-- <a href="https://twitter.com/bhavyatyagi16"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png" width="50"></a> -->
-<!-- <a href="https://www.facebook.com/bhavytyagi16"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="50"></a> -->
+<!-- <a href="https://medium.com/"><img src="https://github.com/aritraroy/social-icons/blob/master/medium-icon.png" width="50"></a> -->
+<!-- <a href="https://www.instagram.com/"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="50"></a> -->
+<!-- <a href="https://twitter.com/"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png" width="50"></a> -->
+<!-- <a href="https://www.facebook.com/"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="50"></a> -->
 </div>
 
 <div align="center">
