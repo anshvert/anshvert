@@ -1,5 +1,4 @@
 # <h1 align='center'> Hi there [<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">](https://github.com/anshvert), I'm Ansh Tyagi </h1>
-<h3  align='center'> pursuing COE from <a href="https://thapar.edu"> Thapar Institute of Engineering & Technology, Patiala </a> </h3>
 
 <br>
 
