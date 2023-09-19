@@ -18,7 +18,7 @@
 
 📧 You can reach me via email at anshtyagi2222@gmail.com.
 
-🌐 Explore my personal website at [yourwebsite.com](https://portfolio-anshvert.vercel.app/) to learn more about my projects and skills.
+🌐 Explore my personal website at [Ansh's Portfolio](https://portfolio-anshvert.vercel.app/) to learn more about my projects and skills.
 
 Looking forward to collaborating and creating innovative solutions together!</p>
 
@@ -51,6 +51,9 @@ Looking forward to collaborating and creating innovative solutions together!</p>
     </td>
 </tr>
 <tr>
+     <td align='center'>
+         <img src="https://github.com/anshvert/anshvert_off/assets/53685410/2f144172-2d16-4fa7-94f3-ff1ac88892af" alt="Redis" width="80">
+    </td>
     <td>
        <img src="https://github.com/anshvert/anshvert_off/assets/53685410/416fd397-eb93-4247-aabb-500da3b2155a" alt="MySQL" width="80">
     </td>
@@ -63,7 +66,13 @@ Looking forward to collaborating and creating innovative solutions together!</p>
         <img src="https://github.com/anshvert/anshvert_off/assets/53685410/06c3054d-fce0-4230-be37-f42d4f5dec82" alt="NextJS" width="80">
     </td>
     <td align='center'>
-         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
+         <img src="https://github.com/anshvert/anshvert_off/assets/53685410/f3de9b55-a563-41d6-96bd-4442c642a2e3" alt="Git" width="80">
+    </td>
+     <td align='center'>
+         <img src="https://github.com/anshvert/anshvert_off/assets/53685410/1a19619c-27de-4b8a-a3a6-a93b412f3234" alt="VueJS" width="80">
+    </td>
+     <td align='center'>
+         <img src="https://github.com/anshvert/anshvert_off/assets/53685410/b40a65ed-2aed-4067-904b-197f602f925d" alt="TypeORM" width="80">
     </td>
 </tr>
 </table>
