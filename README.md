@@ -18,7 +18,7 @@
 
 📧 You can reach me via email at anshtyagi2222@gmail.com.
 
-🌐 Explore my personal website at [Ansh's Portfolio](https://portfolio-anshvert.vercel.app/) to learn more about my projects and skills.
+🌐 Explore my personal website at [Ansh's Portfolio](https://my-portfolio-anshvert.vercel.app/) to learn more about my projects and skills.
 
 Looking forward to collaborating and creating innovative solutions together!</p>
 
