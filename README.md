@@ -2,19 +2,19 @@
      <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+I'm+Ansh+Tyagi;Software+Developer;"/>
 </div>
  
-<p align="justify"I'm a passionate Full Stack Web Developer with expertise in the MERN (MongoDB, Express.js, React, Node.js) stack and TypeScript. I thrive on building robust and scalable web applications that deliver seamless user experiences.
+<p align="justify"I'm a passionate Full Stack Developer. I thrive on building robust and scalable applications that deliver seamless user experiences.
 
 ## What I'm Currently Working On
 
-🚀 I'm currently working on exciting projects using Next.js and GraphQL, pushing the boundaries of what's possible on the web.
+🚀 I'm currently working on Kafka and how to use it to build highly scalable applications.
 
-🔧 I have hands-on experience with various databases, including Redis, PostgreSQL, MySQL, and MongoDB, ensuring data storage solutions are optimized for performance and scalability.
+🔧 I have hands-on experience with various databases including Redis, MySQL, and MongoDB ensuring data storage solutions are optimized for performance and scalability.
 
 🐍 I also have a solid foundation in Python, which comes in handy for various backend tasks and automation.
 
 ## Get in Touch
 
-💬 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ansh00000000/) or check out my latest work on [GitHub](https://github.com/anshvert/PostHive).
+💬 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ansh00000000/) or check out my latest work on [GitHub](https://github.com/anshvert/Buny).
 
 📧 You can reach me via email at anshtyagi2222@gmail.com.
 
