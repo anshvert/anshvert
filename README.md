@@ -77,6 +77,7 @@ Looking forward to collaborating and creating innovative solutions together!</p>
 </tr>
 </table>
 
+<!--
 <div>
 <p align="center">
 <a href="https://github.com/anshvert">
@@ -90,4 +91,4 @@ Looking forward to collaborating and creating innovative solutions together!</p>
 <p align ="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshvert&theme=chartreuse-dark" alt="Ansh Tyagi" />
 </p>
-</div>
+</div> -->
